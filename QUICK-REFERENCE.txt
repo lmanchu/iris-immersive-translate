@@ -1,0 +1,101 @@
+🚀 FLIPLANG - CHROME WEB STORE 快速參考卡
+===========================================
+
+📦 ZIP 文件位置:
+/Users/lman/Iris/projects/immersive-translate/fliplang-v1.2.0.zip
+
+🖼️ 圖標 (128x128):
+/Users/lman/Iris/projects/immersive-translate/icons/icon128.png
+
+🖼️ 小促銷圖 (440x280):
+/Users/lman/Iris/projects/immersive-translate/promo-assets/small-promo-tile-440x280.png
+
+🖼️ 橫幅促銷圖 (1400x560):
+/Users/lman/Iris/projects/immersive-translate/promo-assets/marquee-promo-tile-1400x560.png
+
+---
+
+📝 產品名稱:
+Fliplang
+
+📝 摘要 (132 chars):
+Privacy-first translation: Fast Google Translate + Local AI. Hover, select, or translate entire pages with bilingual display.
+
+📝 分類:
+Productivity
+
+---
+
+🌐 官方網址:
+https://github.com/lmanchu/fliplang
+
+🆘 支援網址:
+https://github.com/lmanchu/fliplang/issues
+
+🔒 隱私政策:
+https://github.com/lmanchu/fliplang/blob/main/PRIVACY-POLICY.md
+
+---
+
+📄 單一用途描述:
+Fliplang provides bilingual translation services using either Google Translate API or local Ollama AI models, giving users the choice between fast cloud translation and private local translation.
+
+---
+
+🔐 權限說明:
+
+activeTab:
+Required to access and translate content on the page user is currently viewing
+
+storage:
+Store user preferences (engine choice, keyboard shortcuts, daily usage count) locally in browser
+
+scripting:
+Inject translation UI and bilingual display components into web pages
+
+<all_urls>:
+Allow translation functionality on any website user visits
+
+localhost:
+Connect to local Ollama AI server (http://localhost:11434) for private translation mode
+
+---
+
+📊 數據使用說明:
+Google Translate Mode:
+• Text selected for translation is sent to Google Translate API
+• This is necessary for the translation service to function
+• Data is processed by Google according to their privacy policy
+
+Ollama Mode:
+• All translation data is processed locally on user's computer
+• No data is sent to external servers
+• Completely offline and private
+
+Extension does NOT collect:
+• Personal information
+• Browsing history
+• Analytics or tracking data
+• User credentials
+
+Local Storage Only:
+• User preferences (engine choice, shortcuts)
+• Daily usage count (for freemium limit: 50 translations/day)
+• All data stored locally in browser, never transmitted to our servers
+
+---
+
+✅ 認證選項:
+☑ I certify that my extension complies with Chrome Web Store policies
+☑ I certify that I have the rights to distribute this extension
+
+---
+
+🌍 分發設定:
+Visibility: Public
+Pricing: Free
+Regions: All regions
+
+---
+
+📖 完整說明文件: SUBMIT-NOW.md

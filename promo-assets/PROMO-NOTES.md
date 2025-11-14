@@ -51,9 +51,12 @@
 ## 📸 Screenshots (5-8 recommended)
 
 ✅ **Generated**:
-1. ✅ `screenshot-1280x800.png` - Logo showcase (1280x800)
+1. ✅ `screenshot-1280x800.png` - Extension settings & Daily Usage display (1280x800)
+   - Shows Fliplang popup with dual engine selection
+   - Displays Daily Usage feature (0/50 translations)
+   - Perfect for Chrome Web Store submission!
 
-Still TODO:
+Still TODO (Optional):
 1. Hover translation demo (showing bilingual sentence display)
 2. Extension popup settings page
 3. Selection translation tooltip
