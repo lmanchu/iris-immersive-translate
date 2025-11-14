@@ -285,6 +285,16 @@ cd ~/iris-immersive-translate
 
 MIT License
 
+## 🔒 隱私政策
+
+請查看我們的 [Privacy Policy](./PRIVACY-POLICY.md) 了解我們如何處理你的數據。
+
+**簡要說明**：
+- **Google Translate 模式**：文字會發送到 Google 進行翻譯
+- **Ollama 模式**：所有處理都在本地進行，完全隱私
+- **無追蹤**：我們不收集分析數據或個人資訊
+- **開源透明**：所有代碼公開可審計
+
 ---
 
 ## 💡 靈感來源
@@ -330,8 +340,9 @@ MIT License
 ## 📧 聯絡
 
 有問題或建議？歡迎聯絡：
-- **GitHub**: [lmanchu/iris-immersive-translate](https://github.com/lmanchu/iris-immersive-translate)
-- **Issues**: [提交問題](https://github.com/lmanchu/iris-immersive-translate/issues)
+- **GitHub**: [lmanchu/fliplang](https://github.com/lmanchu/fliplang)
+- **Issues**: [提交問題](https://github.com/lmanchu/fliplang/issues)
+- **Privacy Policy**: [隱私政策](./PRIVACY-POLICY.md)
 
 ---
 

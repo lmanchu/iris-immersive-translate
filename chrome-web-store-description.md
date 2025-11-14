@@ -103,6 +103,9 @@ https://github.com/lmanchu/fliplang
 ## Support URL
 https://github.com/lmanchu/fliplang/issues
 
+## Privacy Policy URL
+https://github.com/lmanchu/fliplang/blob/main/PRIVACY-POLICY.md
+
 ## Screenshots Needed (5-8 recommended)
 
 1. **Screenshot 1**: Hover translation in action (showing bilingual sentence-by-sentence)
