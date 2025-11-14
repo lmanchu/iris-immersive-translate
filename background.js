@@ -1,8 +1,8 @@
 /**
- * Iris Immersive Translate - Background Service Worker
+ * Fliplang - Background Service Worker
  *
- * 負責：
- * 1. 監聽快捷鍵命令
+ * Responsible for:
+ * 1. Listening to keyboard shortcuts
  * 2. 與 content script 通訊
  * 3. 管理翻譯狀態
  */
@@ -159,7 +159,7 @@ ${text}`;
 
 // Extension 安裝時的初始化
 chrome.runtime.onInstalled.addListener(() => {
-  console.log('[Background] Iris Immersive Translate installed');
+  console.log('[Background] Fliplang installed');
 
   // 設置默認配置
   chrome.storage.sync.set({

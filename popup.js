@@ -1,7 +1,7 @@
 /**
- * Iris Immersive Translate - Popup Script
+ * Fliplang - Popup Script
  *
- * 設定介面邏輯
+ * Settings interface logic
  */
 
 // 載入已保存的設定

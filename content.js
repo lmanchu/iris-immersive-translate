@@ -1,8 +1,8 @@
 /**
- * Iris Immersive Translate - Content Script
+ * Fliplang - Content Script
  *
- * 負責：
- * 1. 監聽來自 background 的消息
+ * Responsible for:
+ * 1. Listening to messages from background
  * 2. 提取頁面文字
  * 3. 顯示翻譯結果（雙語對照）
  * 4. 處理用戶交互

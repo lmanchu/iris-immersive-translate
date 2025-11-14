@@ -1,13 +1,13 @@
-# 🌐 Iris Immersive Translate
+# 🌐 Fliplang
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](https://github.com/lmanchu/iris-immersive-translate)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com)
 [![Made with Ollama](https://img.shields.io/badge/Made%20with-Ollama-black?logo=ai&logoColor=white)](https://ollama.com)
-[![GitHub Stars](https://img.shields.io/github/stars/lmanchu/iris-immersive-translate?style=social)](https://github.com/lmanchu/iris-immersive-translate/stargazers)
+[![Privacy First](https://img.shields.io/badge/Privacy-First-success)](https://github.com/lmanchu/fliplang)
 
-**沉浸式翻譯 - 支援 Google Translate 與 Ollama 雙引擎**
+**Privacy-first translation with dual engines: Fast Google Translate + Local AI**
 
-一個強大的 Chrome Extension，支援快速的 Google Translate 和隱私的 Ollama 本地 LLM 雙翻譯引擎。
+A powerful Chrome extension that combines the speed of Google Translate with the privacy of local Ollama AI models.
 
 ---
 
@@ -202,7 +202,7 @@ ollama serve
 ### 自訂快捷鍵
 
 1. 進入 `chrome://extensions/shortcuts`
-2. 找到「Iris Immersive Translate」
+2. 找到「Fliplang」
 3. 自訂你喜歡的快捷鍵
 
 ### 更換模型
